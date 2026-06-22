@@ -1,4 +1,4 @@
-# Hi, I'm Max 👋
+# Hi, I'm M👋
 
 > Building open-source tools for retail traders and quant developers.
 
